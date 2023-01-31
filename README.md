@@ -1,7 +1,7 @@
 - 👋 Hi, I’m David Gibson
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning REACT
-- 🔭 I’m currently searching for a carear in web development
+- 🔭 I’m currently searching for a career in web development
 - 📫 Contact me via email at davidjohngibson97@gmail.com for any enquiries
 
 Click <a href="https://davidgibsonprojects.co.uk/">HERE<a/> to view my web portfolio ↓ ↓ ↓
